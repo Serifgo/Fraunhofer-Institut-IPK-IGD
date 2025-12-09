@@ -13,6 +13,6 @@ Zirkuläre Geschäftsmodelle zeigen, wie Unternehmen Ressourcen effizienter nutz
 
 Biometrische Systeme identifizieren Personen anhand körperlicher und verhaltensbasierter Merkmale und kommen in sicherheitskritischen sowie alltäglichen Anwendungen zum Einsatz. Gleichzeitig zeigen aktuelle Studien, dass solche Systeme Verzerrungen aufweisen können, wodurch bestimmte Gruppen oder Merkmalsausprägungen benachteiligt werden. Am Fraunhofer IGD wird deshalb nicht nur an leistungsfähigen biometrischen Verfahren geforscht, sondern auch an Methoden zur Analyse und Reduktion von Bias, etwa durch die Untersuchung nicht-demografischer Einflussfaktoren oder durch neue Fairness-Ansätze wie gruppenbasierte Score-Normalisierung.
 
-[Link zum Projekt](https://www.igd.fraunhofer.de/de/forschung/kernkompetenzen/biometrie.html)
+[Link: Biometrie](https://www.igd.fraunhofer.de/de/forschung/kernkompetenzen/biometrie.html)
 
-[Link zum Projekt](https://www.igd.fraunhofer.de/de/forschung/oeffentliche-projekte/infrastruktur-und-public-services/fairness-und-bias-in-der-biometrie.html)
+[Link: Fairness und Bias in der Biometrie](https://www.igd.fraunhofer.de/de/forschung/oeffentliche-projekte/infrastruktur-und-public-services/fairness-und-bias-in-der-biometrie.html)
